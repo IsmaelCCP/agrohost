@@ -1,0 +1,21 @@
+.center_align{
+	text-align: center;
+}
+.font_14{	
+	font-size: 14pt; 
+}
+.font_12{	
+	font-size: 12pt; 
+}
+.font_10{	
+	font-size: 10pt; 
+}
+.font_8{	
+	font-size: 8pt; 
+}
+.background_vermelho{
+	background: #f00;
+}
+.background_verde{
+	background: #0c0;
+}
